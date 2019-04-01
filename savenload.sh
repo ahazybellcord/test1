@@ -1,4 +1,4 @@
 git add .
-git commit -m "Commit message"
+git commit -m "Automated commit message"
 git pull 
 git push -u origin master
